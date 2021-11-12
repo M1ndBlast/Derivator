@@ -1,0 +1,16 @@
+{
+  "name": "derivator",
+  "version": "1.0.0",
+  "description": "give derivation evaluated within especific number",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "directory": ""
+  },
+  "keywords": [],
+  "author": "m1ndblast",
+  "license": "ISC"
+}
